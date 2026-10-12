@@ -189,9 +189,7 @@ manas-twin/
 4. Clinician-co-designed alert pathways, multilingual nudges, phone-only mode.
 
 ## 11. Team
-
-| Name | Role | Institution |
-| TEAM KABIL | Student | SYMBIOSIS CENTRE FOR INFORMATION TECHNOLOGY (SCIT),SIU (Deemed University) |
+| TEAM KABIL | SYMBIOSIS CENTRE FOR INFORMATION TECHNOLOGY (SCIT), SIU (Deemed University) |
 
 ## 12. License
 
