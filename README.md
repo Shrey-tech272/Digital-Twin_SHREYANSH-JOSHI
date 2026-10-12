@@ -191,8 +191,7 @@ manas-twin/
 ## 11. Team
 
 | Name | Role | Institution |
-|---|---|---|
-| _Add team member_ | _Role_ | _Incubator / University_ |
+| TEAM KABIL | Student | SYMBIOSIS CENTRE FOR INFORMATION TECHNOLOGY (SCIT),SIU (Deemed University) |
 
 ## 12. License
 
